@@ -1,0 +1,34 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+nav ul {
+    display: flex;
+    justify-content: flex-end;
+    
+}
+nav ul li {
+    margin: 25px;
+    list-style: none;
+    
+}
+nav ul li a{
+    text-decoration: none;
+    color: rgb(235, 26, 11);
+}
+#home {
+    text-align: center;
+}
+#about {
+    text-align: center;
+}
+footer{
+    
+    text-align: center;
+}
+img {
+    width: 50px;
+    border-radius:25px ;
+}
