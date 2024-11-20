@@ -29,6 +29,7 @@ footer{
     text-align: center;
 }
 img {
-    width: 50px;
+    width: 350px;
     border-radius:25px ;
+    float: left;
 }
